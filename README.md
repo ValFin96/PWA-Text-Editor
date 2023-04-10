@@ -1,5 +1,5 @@
 # PWA-Text-Editor
-This is a single-page application text editor that runs in the browser and meets the PWA criteria. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline. Find a deployed application [here]().
+This is a single-page application text editor that runs in the browser and meets the PWA criteria. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline. Find a deployed application [here](https://sleepy-reef-33552.herokuapp.com/).
 
 ## Usage
 Follow these steps to use the text editor app:
